@@ -6,6 +6,11 @@
 
 ---
 
+![](https://github.com/sanjeevstunner/github-stats/blob/master/generated/overview.svg)
+
+---
+
+# [More Stats](https://github.com/sanjeevstunner)
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
 
 <!--
