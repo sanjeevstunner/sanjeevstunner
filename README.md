@@ -1,11 +1,8 @@
 
 ---
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
-
----
-
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&theme=great-gatsby&hide_border=true)
+[![My github status](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&layout=compact&hide_border=false&title_color=eb0029)](https://github.com/sanjeevstunner)
 
 ---
 
