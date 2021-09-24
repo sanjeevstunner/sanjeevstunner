@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Mahi's github stats](https://github-readme-stats.vercel.app/api?username=pawar-mahesh&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar-mahesh&theme=great-gatsby&layout=compact&hide_border=true)](https://github.com/pawar-mahesh)
+
 <!--
 **sanjeevstunner/sanjeevstunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
