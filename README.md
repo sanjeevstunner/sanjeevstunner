@@ -5,7 +5,7 @@
 
 ---
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&theme=great-gatsby&hide_border=true)](https://github.com/sanjeevstunner)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&theme=great-gatsby&hide_border=true)
 
 ---
 
