@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
 ---
 Hey, I'm Sanjeev (also known as) [Chandler Bing](http://t.me/Chandler_bing_here)
 
@@ -33,6 +37,8 @@ ROM updates - Pixel Experience [Unofficial]
 ---
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
+
+
 
 <!--
 **sanjeevstunner/sanjeevstunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
