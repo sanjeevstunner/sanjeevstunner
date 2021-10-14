@@ -23,8 +23,8 @@ XDA Threads
 ROM updates - Pixel Experience [Unofficial]
 
  - [Changes in Device Tree](https://github.com/sanjeevstunner/device_xiaomi_tulip/commits)
- - [PE ROM Downloads](https://github.com/sanjeevstunner/Tulip-Releases/releases) (Unofficial)
- - [PE ROM Changelogs](https://github.com/sanjeevstunner/Tulip-Releases/blob/main/Pixel%20Experience%20Changelogs.md)
+ - [Downloads](https://github.com/sanjeevstunner/Tulip-Releases/releases) (Unofficial)
+ - [Changelogs](https://github.com/sanjeevstunner/Tulip-Releases/blob/main/Pixel%20Experience%20Changelogs.md)
 ---
 
 [![My github status](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=true)
