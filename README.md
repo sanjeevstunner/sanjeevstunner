@@ -1,36 +1,20 @@
 ---
-Hey, I'm Sanjeev (also known as)  [Chandler Bing](http://t.me/Chandler_bing_here)
+Hey, I'm Sanjeev (AKA) [Chandler Bing](http://t.me/Chandler_bing_here)
 
-I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates)
-
-The thing about me is I revive the fan favorite ROMs that are abandoned by other developers, and work to give my best.
-
-Telegram Links
-
- - My Community 
-    - [Updates](https://t.me/Chandler_bing_builds_here)
-    - [Discussion](https://t.me/Chandler_bing_builds_discussion)
-
- - My Device Community - Redmi note 6 pro (tulip)
-   - [Updates](https://t.me/tulip_updates)
-   - [Discussion](https://t.me/tulipofficial)
-
-XDA Threads 
-
- - [My Thread](https://forum.xda-developers.com/m/sanjeevstunner.9824973/)
- - [My Device - Redmi note 6 pro (tulip)](https://forum.xda-developers.com/c/xiaomi-redmi-note-6-pro.8406/)
-
-ROM updates - Pixel Experience [Unofficial]
-
- - [Changes in Device Tree](https://github.com/sanjeevstunner/device_xiaomi_tulip/commits)
- - [Downloads](https://github.com/sanjeevstunner/Tulip-Releases/releases) (Unofficial)
- - [Changelogs](https://github.com/sanjeevstunner/Tulip-Releases/blob/main/Pixel%20Experience%20Changelogs.md)
----
-
-[![My github status](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&layout=compact&hide_border=false&title_color=eb0029)](https://github.com/sanjeevstunner)
+I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates) and [Poco X3 pro (vayu)](https://t.me/PocoX3ProUpdates)
 
 ---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=500&theme=github_dark)
+
+---
+
+<h1>My pins</h1>
+
+[![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)](https://github.com/sanjeevstunner/device_xiaomi_vayu)
+[![Vayu common DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_sm8150-common)](https://github.com/sanjeevstunner/device_xiaomi_sm8150-common)
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
 
