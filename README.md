@@ -7,13 +7,13 @@ I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=500&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=github_dark)
 
 ---
 
 <h1>My pins</h1>
 
-<a href="https://github.com/sanjeevstunner/device_xiaomi_vayu" target="_blank">![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)</a>
+[![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)](https://github.com/sanjeevstunner/device_xiaomi_vayu)
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
 
