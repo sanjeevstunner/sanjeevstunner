@@ -17,7 +17,7 @@ I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates)
 
 [![manifest](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=Manifest)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
 
-[![ROM Builder](https://github-readme-stats.vercel.app/api/pin/?username=ROM-builders&repo=temporary&show_owner=true)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
+[![ROM Builder](https://github-readme-stats.vercel.app/api/pin/?username=ROM-builders&repo=temporary&show_owner=true)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
 
