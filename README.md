@@ -15,9 +15,12 @@ I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates)
 
 [![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)](https://github.com/sanjeevstunner/device_xiaomi_vayu)
 
+[![ROM Builder](https://github-readme-stats.vercel.app/api/pin/?username=ROM-builders&repo=temporary&show_owner=true)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
+
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
 
 <!--
+
 **sanjeevstunner/sanjeevstunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
