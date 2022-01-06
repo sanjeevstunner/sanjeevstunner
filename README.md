@@ -28,9 +28,15 @@
 
 [![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)](https://github.com/sanjeevstunner/device_xiaomi_vayu)
 
+[![Commit - History](https://img.shields.io/badge/Commit-History-D9D7F1?style=for-the-badge&logo=github&logoColor=FFFDDE)](https://github.com/sanjeevstunner/device_xiaomi_vayu/commits)
+
 [![manifest](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=Manifest)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
 
 [![ROM Builder](https://github-readme-stats.vercel.app/api/pin/?username=ROM-builders&repo=temporary&show_owner=true)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
+
+[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExperience-twelve-sanjeevstunner)
+
+---
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=flat-square)
 
