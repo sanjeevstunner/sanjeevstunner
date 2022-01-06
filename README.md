@@ -1,7 +1,20 @@
 ---
-Hey, I'm Sanjeev (AKA) [Chandler Bing](http://t.me/Chandler_bing_here)
+# Hey, I'm Sanjeev (AKA) [Chandler Bing](http://t.me/Chandler_bing_here)
 
-I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates) and [Poco X3 pro (vayu)](https://t.me/PocoX3ProUpdates)
+### &emsp;&emsp; Student, who happens to have a lot of interest around everything that has a silicon in it and runs via electricity, and not a lot of hope in traditional way of doing things. 
+
+---
+
+**_Current interests_**
+
+ - EVs `Who doesn't like them? 🤷‍♂️`
+ - Actual tech behind self-drivng and competitional photography `Yeah AI is a mystrey, and I'm curious about them, even tho its obvious, they are just a couple of if...else blocks`
+
+---
+
+**_What do I do?_** 
+
+&emsp;&emsp; I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates) and [Poco X3 pro (vayu)](https://t.me/PocoX3ProUpdates)
 
 ---
 
