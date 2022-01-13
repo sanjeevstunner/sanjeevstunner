@@ -10,7 +10,7 @@
  - EVs `Who doesn't like them? 🤷‍♂️`
  - Actual tech behind self-drivng and competitional photography `Yeah AI is a mystrey, and I'm curious about them, even tho its obvious, they are just a couple of if...else blocks`
 
-**_Learn about me_**
+**_More about me_**
 
 [![goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/sanjeevstunner)
 ---
