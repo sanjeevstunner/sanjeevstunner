@@ -1,18 +1,34 @@
 ---
-# Hey, I'm Sanjeev (AKA) [Chandler Bing](http://t.me/Chandler_bing_here)
 
-### &emsp;&emsp; Student, who happens to have a lot of interest around everything that has a silicon in it and runs via electricity, and not a lot of hope in traditional way of doing things. 
+<h1> Hey, I'm Sanjeev 👋 </h1>
+
+`` Nerd ``
+
+
+<h4> &emsp;&emsp; Student, who happens to have an insane amount of interest in everything that has a silicon in it and functions with electricity. </h4>
 
 ---
 
 **_Current interests_**
 
  - EVs `Who doesn't like them? 🤷‍♂️`
- - Actual tech behind self-drivng and competitional photography `Yeah AI is a mystrey, and I'm curious about them, even tho its obvious, they are just a couple of if...else blocks`
+ - Actual tech behind self-drivng and competitional photography `AI is awesome` `PS. They wont take over humans`
+ - Audio and Video Production
+ - Landscape Photography
+ - Tinkering with Android Phones 
 
-**_More about me_**
+**_Socials_**
 
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chandler_s_bio)
+&emsp;
 [![goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/sanjeevstunner)
+&emsp;
+[![xda](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/sanjeevstunner.9824973)
+&emsp;
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjeevstunner)
+&emsp;
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjeevstunner)
+
 ---
 
 **_What do I do?_** 
