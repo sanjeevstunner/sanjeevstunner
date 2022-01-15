@@ -41,8 +41,9 @@
 
 ---
 
-![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=People+Visited&color=FF5959)
+![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=You're+Visitor+Number)
 
+<!-- Badge color &color=FF5959 -->
 <!--
 https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml
 
