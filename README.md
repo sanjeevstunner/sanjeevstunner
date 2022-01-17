@@ -53,17 +53,19 @@
 
 [![ROM Builder](https://github-readme-stats.vercel.app/api/pin/?username=ROM-builders&repo=temporary&show_owner=true)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
 
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExperience-twelve-sanjeevstunner)
-
 <h6> ROMs I maintain </h6>
 
 [![vayu-PE-12](https://img.shields.io/badge/vayu-Pixel%20Experience-blue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
+[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExperience-twelve-sanjeevstunner)
 
 [![vayu-PEX-12](https://img.shields.io/badge/vayu-Pixel%20Extended-lightgreen?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExtended-snow-sanjeevstunner/build_rom.sh)
+[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExtended-snow-sanjeevstunner)
 
 [![twolip-PE-11](https://img.shields.io/badge/twolip-Pixel%20Experience-blue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/twolip-PixelExperience-sanjeevstunner/build_rom.sh)
+[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/twolip-PixelExperience-sanjeevstunner)
 
 ![twolip-PEX-11](https://img.shields.io/badge/twolip-Pixel%20Extended-lightgreen?style=for-the-badge&logo=android)
+[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/twolip-PixelExtended-sanjeevstunner)
 
 ---
 
