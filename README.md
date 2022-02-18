@@ -88,6 +88,17 @@
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=You're+Visitor+Number)
 
+<!-- 
+Colors for BuildStatus badges
+ 
+ - Official - EF6D6D
+ - Unofficial - 4298B8
+ - Stalled - 886F6F
+ - Discontinued - DA1212
+ - Bringing Up - FFBED8
+
+-->
+
 <!--
 
 **sanjeevstunner/sanjeevstunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
