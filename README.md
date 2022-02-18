@@ -71,7 +71,12 @@
 <!--  -->
 [![vayu-Project Elixir-12](https://img.shields.io/badge/vayu-Project%20Elixir-pink?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-Project-Elixir-12-sanjeevstunner/build_rom.sh)
 [![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-Project-Elixir-12-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Building-B4CFB0?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
+[![Build - Status](https://img.shields.io/badge/Build%20Status-Stalled-886F6F?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
+
+<!--  -->
+[![vayu-PPUI-12](https://img.shields.io/badge/vayu-Project%20Elixir-pink?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-Project-Elixir-12-sanjeevstunner/build_rom.sh)
+[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-Project-Elixir-12-sanjeevstunner)
+[![Build - Status](https://img.shields.io/badge/Build%20Status-Bringing%20Up-FFBED8?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
 
 <!--  -->
 [![twolip-PE-11](https://img.shields.io/badge/twolip-Pixel%20Experience-blue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/twolip-PixelExperience-sanjeevstunner/build_rom.sh)
@@ -94,7 +99,7 @@ Colors for BuildStatus badges
  - Official - EF6D6D
  - Unofficial - 4298B8
  - Stalled - 886F6F
- - Discontinued - DA1212
+ - Discontinued - DD3735
  - Bringing Up - FFBED8
 
 -->
