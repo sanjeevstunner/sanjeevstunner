@@ -88,9 +88,7 @@
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=You're+Visitor+Number)
 
-<!-- Badge color &color=FF5959 -->
 <!--
-https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml
 
 **sanjeevstunner/sanjeevstunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
