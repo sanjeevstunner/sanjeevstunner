@@ -52,6 +52,9 @@
 [![Kernel - Vayu](https://img.shields.io/badge/Kernel-Vayu-33cc99?style=for-the-badge&logo=linux&logoColor=33cc99)](https://github.com/sanjeevstunner/kernel_sm8150)
 [![Vendor - Vayu](https://img.shields.io/badge/Vendor-Vayu-fd4900?style=for-the-badge&logo=xiaomi&logoColor=fd4900)](https://github.com/sanjeevstunner/vendor_xiaomi_vayu)
 
+[![Addon-MiParts](https://img.shields.io/badge/AddOn-Device%20Settings-119EFF?style=for-the-badge&logo=capacitor&logoColor=119EFF)](https://github.com/sanjeevstunner/kernel_sm8150)
+[![Addon-G-Cam](https://img.shields.io/badge/AddOn-Google%20Camera-E6502A?style=for-the-badge&logo=coronaengine&logoColor=E6502A)](https://github.com/sanjeevstunner/kernel_sm8150)
+
 [![manifest](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=Manifest)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
 
 [![ROM Builder](https://github-readme-stats.vercel.app/api/pin/?username=ROM-builders&repo=temporary&show_owner=true)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
