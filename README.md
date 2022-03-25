@@ -49,7 +49,7 @@
 
 [![Commit - History](https://img.shields.io/badge/Commit-History-D9D7F1?style=for-the-badge&logo=github&logoColor=FFFDDE)](https://github.com/sanjeevstunner/device_xiaomi_vayu/commits)
 
-[![Kernel - Vayu](https://img.shields.io/badge/Kernel-Vayu-33cc99?style=for-the-badge&logo=linux&logoColor=33cc99)](https://github.com/sanjeevstunner/kernel_sm8150)
+[![Kernel - Vayu](https://img.shields.io/badge/Kernel-Vayu-33cc99?style=for-the-badge&logo=linux&logoColor=33cc99)](https://github.com/Jebaitedneko/android_kernel_xiaomi_vayu/tree/r2)
 [![Vendor - Vayu](https://img.shields.io/badge/Vendor-Vayu-fd4900?style=for-the-badge&logo=xiaomi&logoColor=fd4900)](https://github.com/sanjeevstunner/vendor_xiaomi_vayu)
 
 [![Addon-MiParts](https://img.shields.io/badge/AddOn-Device%20Settings-119EFF?style=for-the-badge&logo=capacitor&logoColor=119EFF)](https://github.com/sanjeevstunner/vendor_xiaomi_device_settings)
