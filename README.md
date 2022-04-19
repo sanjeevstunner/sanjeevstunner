@@ -53,6 +53,8 @@
 [![Vendor - Vayu](https://img.shields.io/badge/Vendor-Vayu-fd4900?style=for-the-badge&logo=xiaomi&logoColor=fd4900)](https://github.com/sanjeevstunner/vendor_xiaomi_vayu)
 
 [![Addon-MiParts](https://img.shields.io/badge/AddOn-Device%20Settings-119EFF?style=for-the-badge&logo=capacitor&logoColor=119EFF)](https://github.com/sanjeevstunner/vendor_xiaomi_device_settings)
+[![Addon-GCam](https://img.shields.io/badge/AddOn-Google%20Camera-005555?style=for-the-badge&logo=groupon&logoColor=53A318)](https://gitlab.com/sanjeevstunner/vendor_google_camera)
+[![Addon-PixelLauncher](https://img.shields.io/badge/AddOn-Pixel%20Launcher-8479E1?style=for-the-badge&logo=ProcessWire&logoColor=2480E6)](https://github.com/sanjeevstunner/vendor_pixel_launcher)
 
 [![manifest](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=Manifest)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
 
