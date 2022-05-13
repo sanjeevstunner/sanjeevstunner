@@ -41,6 +41,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=github_dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevstunner&theme=tokyonight_duo)]()
+
 ---
 
 <h1>My pins</h1>
