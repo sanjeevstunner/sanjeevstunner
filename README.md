@@ -17,24 +17,6 @@
  - Landscape Photography
  - Tinkering with Android Phones [Build ROMs, make MODs, what not? ]
 
-**_Socials_**
-
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chandler_s_bio)
-&emsp;
-[![goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/sanjeevstunner)
-&emsp;
-[![xda](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/sanjeevstunner.9824973)
-&emsp;
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjeevstunner)
-&emsp;
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjeevstunner)
-
----
-
-**_What do I do?_** 
-
-&emsp;&emsp; I develop custom ROMs for [Redmi note 6 pro (tulip)](https://t.me/tulip_updates) and [Poco X3 pro (vayu)](https://t.me/PocoX3ProUpdates)
-
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
