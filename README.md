@@ -12,7 +12,7 @@
 **_Current interests_**
 
  - EVs `Who doesn't like them? 🤷‍♂️`
- - [Maybe] Work with autonomous-drivng and competitional photography `AI is awesome` `PS. They wont take over humans`
+ - [Maybe] Work with autonomous-drivng and computational photography `AI is awesome` `PS. They wont take over humans`
  - Audio and Video Production
  - Landscape Photography
  - Tinkering with Android Phones [Build ROMs, make MODs, what not? ]
