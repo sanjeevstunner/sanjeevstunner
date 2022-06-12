@@ -25,6 +25,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevstunner&theme=tokyonight_duo)]()
 
+[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=sanjeevstunner&theme=redical)]()
+
 ---
 
 <h1>My pins</h1>
