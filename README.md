@@ -5,17 +5,8 @@
 `` Nerd ``
 
 
-<h4> &emsp;&emsp; Student, who happens to have an insane amount of interest in everything that has a silicon in it and functions with electricity. </h4>
-
----
-
-**_Current interests_**
-
- - EVs `Who doesn't like them? 🤷‍♂️`
- - [Maybe] Work with autonomous-drivng and computational photography `AI is awesome` `PS. They wont take over humans`
- - Audio and Video Production
- - Landscape Photography
- - Tinkering with Android Phones [Build ROMs, make MODs, what not? ]
+Tech Enthusiast
+ROM maintainer @PixelExperience @Project-Elixir @VoidUI @PixelPlusUI-SnowCone, supporting Poco X3 Pro
 
 ---
 
