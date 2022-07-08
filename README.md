@@ -4,7 +4,9 @@
 
 Tech Enthusiast 
 
-ROM maintainer [@PixelExperience](https://github.com/PixelExperience) [@Project-Elixir](https://github.com/Project-Elixir) [@VoidUI](https://github.com/VoidUI) [@PixelPlusUI-SnowCone](https://github.com/PixelPlusUI-SnowCone), supporting Poco X3 Pro
+ROM maintainer [@PixelExperience](https://github.com/PixelExperience) [@Project-Elixir](https://github.com/Project-Elixir) [@VoidUI](https://github.com/VoidUI) [@PixelPlusUI-SnowCone](https://github.com/PixelPlusUI-SnowCone), supporting Poco X3 Pro 📱
+
+---
 
 <details>
 <summary>My Stats</summary>
@@ -20,8 +22,9 @@ ROM maintainer [@PixelExperience](https://github.com/PixelExperience) [@Project-
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=sanjeevstunner&theme=redical)]()
 </details>
 
+<!--  -->
 <details>
-<summary>My pins</summary>
+<summary>My Pins</summary>
 
 <br>
 
@@ -40,15 +43,10 @@ ROM maintainer [@PixelExperience](https://github.com/PixelExperience) [@Project-
 
 </details>
 
----
-
 <!--  -->
-<h6>Download my ROMs here</h6>
+Download Links 
  
-[![Download Chandler's ROMs | Poco X3 Pro](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vayu/files/12.1)
-
 [![Download Chandler's ROMs | Poco X3 Pro](https://img.shields.io/sourceforge/dt/vayu.svg?style=for-the-badge&logo=SourceForge)](https://sourceforge.net/projects/vayu/files/12.1)
-
 [![Device Changelogs](https://img.shields.io/badge/Read%20Plox-Device%20Changelogs-cyan?style=for-the-badge&logo=Fonoma)](https://github.com/sanjeevstunner/Vayu-Releases/blob/main/changelogs.md)
 [![Notes](https://img.shields.io/badge/Read%20Plox-Notes-orange?style=for-the-badge&logo=Monoprix)](https://github.com/sanjeevstunner/Vayu-Releases/blob/main/notes.md)
 
