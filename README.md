@@ -2,14 +2,9 @@
 
 <h1> Hey, I'm Sanjeev 👋 </h1>
 
-`` Nerd ``
+Tech Enthusiast 
 
-
-Tech Enthusiast
-ROM maintainer @PixelExperience @Project-Elixir @VoidUI @PixelPlusUI-SnowCone, supporting Poco X3 Pro
-
----
-
+ROM maintainer [@PixelExperience](https://github.com/PixelExperience) [@Project-Elixir](https://github.com/Project-Elixir) [@VoidUI](https://github.com/VoidUI) [@PixelPlusUI-SnowCone](https://github.com/PixelPlusUI-SnowCone), supporting Poco X3 Pro
 
 <details>
 <summary>My Stats</summary>
@@ -24,8 +19,6 @@ ROM maintainer @PixelExperience @Project-Elixir @VoidUI @PixelPlusUI-SnowCone, s
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=sanjeevstunner&theme=redical)]()
 </details>
-
----
 
 <details>
 <summary>My pins</summary>
