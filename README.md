@@ -19,6 +19,12 @@
 
 ---
 
+
+<details>
+<summary>My Stats</summary>
+
+<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=github_dark)
@@ -26,10 +32,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevstunner&theme=tokyonight_duo)]()
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=sanjeevstunner&theme=redical)]()
+</details>
 
 ---
 
-<h1>My pins</h1>
+<details>
+<summary>My pins</summary>
+
+<br>
 
 [![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)](https://github.com/sanjeevstunner/device_xiaomi_vayu)
 
@@ -44,6 +54,8 @@
 
 [![manifest](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=Manifest)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
 
+</details>
+
 ---
 
 <!--  -->
@@ -51,50 +63,10 @@
  
 [![Download Chandler's ROMs | Poco X3 Pro](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vayu/files/12.1)
 
-[![Download Chandler's ROMs | Poco X3 Pro](https://img.shields.io/sourceforge/dt/vayu.svg?style=for-the-badge&logo=SourceForge)]()
+[![Download Chandler's ROMs | Poco X3 Pro](https://img.shields.io/sourceforge/dt/vayu.svg?style=for-the-badge&logo=SourceForge)](https://sourceforge.net/projects/vayu/files/12.1)
 
 [![Device Changelogs](https://img.shields.io/badge/Read%20Plox-Device%20Changelogs-cyan?style=for-the-badge&logo=Fonoma)](https://github.com/sanjeevstunner/Vayu-Releases/blob/main/changelogs.md)
 [![Notes](https://img.shields.io/badge/Read%20Plox-Notes-orange?style=for-the-badge&logo=Monoprix)](https://github.com/sanjeevstunner/Vayu-Releases/blob/main/notes.md)
-
-
-<!--  -->
-<h6> ROMs I maintain </h6>
-
-<!--  -->
-[![vayu-PE-12](https://img.shields.io/badge/vayu-Pixel%20Experience-blue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-sanjeevstunner/build_rom.sh)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExperience-twelve-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Unofficial-4298B8?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
-<!--  -->
-[![vayu-PE-plus-12](https://img.shields.io/badge/vayu-Pixel%20Experience%20Plus-blue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExperience-twelve-plus-sanjeevstunner/build_rom.sh)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExperience-twelve-plus-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Unofficial-4298B8?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
-<!--  -->
-[![vayu-PEX-12](https://img.shields.io/badge/vayu-Pixel%20Extended-lightgreen?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-PixelExtended-snow-sanjeevstunner/build_rom.sh)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelExtended-snow-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Unofficial-4298B8?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
-<!--  -->
-[![vayu-Project Elixir-12](https://img.shields.io/badge/vayu-Project%20Elixir-pink?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-Project-Elixir-12-sanjeevstunner/build_rom.sh)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-Project-Elixir-12-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Official-EF6D6D?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
-<!--  -->
-[![vayu-PPUI-12](https://img.shields.io/badge/vayu-Pixel%20Plus%20UI-darkblue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/vayu-PixelPlusUI-SnowCone-snowcone-12.1-sanjeevstunner/build_rom.sh)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/vayu-PixelPlusUI-SnowCone-snowcone-12.1-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Official-EF6D6D?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
-<!--  -->
-[![twolip-PE-11](https://img.shields.io/badge/twolip-Pixel%20Experience-blue?style=for-the-badge&logo=android)](https://github.com/ROM-builders/temporary/blob/twolip-PixelExperience-sanjeevstunner/build_rom.sh)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/twolip-PixelExperience-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Discontinued-DD3735?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
-<!--  -->
-![twolip-PEX-11](https://img.shields.io/badge/twolip-Pixel%20Extended-lightgreen?style=for-the-badge&logo=android)
-[![Build - Queue](https://img.shields.io/badge/Build-Queue-FFFDDE?style=for-the-badge&logo=cirrusci&logoColor=D9D7F1)](https://cirrus-ci.com/github/ROM-builders/temporary/twolip-PixelExtended-sanjeevstunner)
-[![Build - Status](https://img.shields.io/badge/Build%20Status-Discontinued-DD3735?style=for-the-badge&logo=BeijingSubway&logoColor=01FF95)]()
-
 
 ---
 
