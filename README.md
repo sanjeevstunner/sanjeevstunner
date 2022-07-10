@@ -1,6 +1,6 @@
 ---
 
-<h1> Hey, I'm Sanjeev 👋 </h1>
+Hello, I'm Sanjeev
 
 Tech Enthusiast 
 
