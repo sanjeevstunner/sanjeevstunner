@@ -23,27 +23,6 @@ Hello, I'm Sanjeev
 </details>
 
 <!--  -->
-<details>
-<summary>My Pins</summary>
-
-<br>
-
-[![Vayu DT](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=device_xiaomi_vayu)](https://github.com/sanjeevstunner/device_xiaomi_vayu)
-
-[![Commit - History](https://img.shields.io/badge/Commit-History-D9D7F1?style=for-the-badge&logo=github&logoColor=FFFDDE)](https://github.com/sanjeevstunner/device_xiaomi_vayu/commits)
-
-[![Kernel - Vayu](https://img.shields.io/badge/Kernel-Vayu-33cc99?style=for-the-badge&logo=linux&logoColor=33cc99)](https://github.com/Jebaitedneko/android_kernel_xiaomi_vayu/tree/r2)
-[![Vendor - Vayu](https://img.shields.io/badge/Vendor-Vayu-fd4900?style=for-the-badge&logo=xiaomi&logoColor=fd4900)](https://github.com/sanjeevstunner/vendor_xiaomi_vayu)
-
-[![Addon-MiParts](https://img.shields.io/badge/AddOn-Device%20Settings-119EFF?style=for-the-badge&logo=capacitor&logoColor=119EFF)](https://github.com/sanjeevstunner/vendor_xiaomi_device_settings)
-[![Addon-GCam](https://img.shields.io/badge/AddOn-Google%20Camera-005555?style=for-the-badge&logo=groupon&logoColor=53A318)](https://gitlab.com/sanjeevstunner/vendor-g-cam-bsg/)
-[![Addon-PixelLauncher](https://img.shields.io/badge/AddOn-Pixel%20Launcher-8479E1?style=for-the-badge&logo=ProcessWire&logoColor=2480E6)](https://github.com/sanjeevstunner/vendor_pixel_launcher)
-
-[![manifest](https://github-readme-stats.vercel.app/api/pin/?username=sanjeevstunner&repo=Manifest)](https://github.com/sanjeevstunner/Manifest/blob/vayu_aosp/local_manifest.xml)
-
-</details>
-
-<!--  -->
 Download Links 
  
 [![Download Chandler's ROMs | Poco X3 Pro](https://img.shields.io/sourceforge/dt/vayu.svg?style=for-the-badge&logo=SourceForge)](https://sourceforge.net/projects/vayu/files/12.1)
