@@ -22,13 +22,6 @@ Hello, I'm Sanjeev
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=sanjeevstunner&theme=redical)]()
 </details>
 
-<!--  -->
-Download Links 
- 
-[![Download Chandler's ROMs | Poco X3 Pro](https://img.shields.io/sourceforge/dt/vayu.svg?style=for-the-badge&logo=SourceForge)](https://sourceforge.net/projects/vayu/files/12.1)
-[![Device Changelogs](https://img.shields.io/badge/Read%20Plox-Device%20Changelogs-cyan?style=for-the-badge&logo=Fonoma)](https://github.com/sanjeevstunner/Vayu-Releases/blob/main/changelogs.md)
-[![Notes](https://img.shields.io/badge/Read%20Plox-Notes-orange?style=for-the-badge&logo=Monoprix)](https://github.com/sanjeevstunner/Vayu-Releases/blob/main/notes.md)
-
 ---
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=You're+Visitor+Number)
