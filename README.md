@@ -4,12 +4,12 @@ Hello, I'm Sanjeev
 
 \> Tech Enthusiast 
 
-\> ROM maintainer [@PixelExperience](https://github.com/PixelExperience), [@Project-Elixir](https://github.com/Project-Elixir), [@VoidUI](https://github.com/VoidUI), [@PixelPlusUI-SnowCone](https://github.com/PixelPlusUI-SnowCone), for Poco X3 Pro 📱
+\> UX and Product Designer | Flutter Developer 
 
 ---
 
 <details>
-<summary>My Stats</summary>
+<summary>Stats</summary>
 
 <br>
 
