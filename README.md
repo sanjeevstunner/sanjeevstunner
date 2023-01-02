@@ -19,9 +19,6 @@ Hello, I'm Sanjeev
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevstunner&theme=tokyonight_duo)]()
 
-[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=sanjeevstunner&theme=redical)]()
-</details>
-
 ---
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=You're+Visitor+Number)
