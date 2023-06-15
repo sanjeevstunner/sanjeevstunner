@@ -1,23 +1,10 @@
 ---
 
-Hello, I'm Sanjeev
+Hi, I'm Sanjeev
 
-\> Tech Enthusiast 
+\> I design pretty UI with exceptional UX 
 
-\> UX and Product Designer | Flutter Developer 
-
----
-
-<details>
-<summary>Stats</summary>
-
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevstunner&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=github_dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevstunner&theme=tokyonight_duo)]()
+\> I develop robust products and engaging experiences for the web, mobile and everything that has a semiconductor in it. 
 
 ---
 
