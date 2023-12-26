@@ -2,9 +2,9 @@
 
 Hi, I'm Sanjeev
 
-\> I design pretty UI with exceptional UX, thats a reach, but yeah.
+\> I design pretty UI with exceptional UX, thats a reach, but yeah, I do some solid design work for all kinds of screens.
 
-\> I also happen to develop robust products and engaging experiences for the web, mobile and everything that has a sillicon in it, also a reach, but most information there is factual. 
+\> I also happen to develop robust products and engaging experiences for the web, mobile and everything that runs with a sillicon, also a reach, but again, I go above and beyond tosatisfy your requirements. 
 
 ---
 
