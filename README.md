@@ -2,9 +2,13 @@
 
 Hi, I'm Sanjeev
 
-\> I design pretty UI with exceptional UX, thats a reach, but yeah, I do some solid design work for all kinds of screens.
+\> Full-stack and GenAI engineer based in Bengaluru. I build across web, mobile, backend and cloud, and I like owning things end to end, from the first idea to production and the support after it.
 
-\> I also happen to develop robust products and engaging experiences for the web, mobile and everything that runs with a sillicon, also a reach, but again, I go above and beyond tosatisfy your requirements. 
+\> These days I mostly work with React, React Native, Node.js and Python, and spend a lot of time on LLM agents, RAG and MCP servers.
+
+\> Before any of that, I maintained Android custom ROMs and kernels and ran their community. That's where I learned to ship on a schedule and stay accountable for what I release.
+
+\> Open to remote, hybrid and relocation. Find me on [LinkedIn](https://linkedin.com/in/sanjeevstunner).
 
 ---
 
