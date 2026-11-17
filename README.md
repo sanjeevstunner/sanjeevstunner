@@ -10,6 +10,12 @@ Hi, I'm Sanjeev
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=sanjeevstunner&style=plastic&label=You're+Visitor+Number)
 
+<!-- CHESS:START -->
+## sanjeevstunner's Community Chess Tournament
+
+[![](https://raw.githubusercontent.com/sanjeevstunner/sanjeevstunner/main/chess_images/new_game.png)](https://github.com/sanjeevstunner/sanjeevstunner/issues/new?title=chess%7Cnew&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)
+<!-- CHESS:END -->
+
 <!-- 
 Colors for BuildStatus badges
  
